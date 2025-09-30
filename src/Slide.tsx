@@ -163,6 +163,7 @@ export const Slide = () => {
     },
 
     // Slide 11: Teori Sudradjat
+    // Slide 11: Teori Sudradjat
     {
       type: "content",
       title: "TEORI KETAHANAN NASIONAL SEBAGAI KEKUATAN PENANGKALAN",
@@ -179,6 +180,121 @@ export const Slide = () => {
             "Ketahanan bersifat dinamis dan harus terus ditingkatkan",
             "Berlandaskan Pancasila, UUD 1945, dan Wawasan Nusantara",
           ],
+        },
+      ],
+    },
+
+    // Slide 11b: Teori Sunardi
+    {
+      type: "content",
+      title: "TEORI KETAHANAN NASIONAL SUNARDI",
+      content: [
+        {
+          heading: "Sunardi (2004)",
+          text: "Ketahanan nasional adalah kondisi dinamik suatu bangsa yang berisi keuletan dan ketangguhan yang mengandung kemampuan mengembangkan kekuatan nasional dalam menghadapi ancaman, tantangan, hambatan, dan gangguan (ATHG) baik dari luar maupun dari dalam.",
+        },
+        {
+          heading: "Karakteristik Ketahanan Nasional:",
+          list: [
+            "Mandiri - tidak bergantung pada pihak lain",
+            "Dinamis - berkembang sesuai perkembangan zaman",
+            "Wibawa - memiliki kewibawaan di mata dunia",
+            "Konsultasi dan Kerjasama - tidak isolatif namun tetap berdaulat",
+          ],
+        },
+      ],
+    },
+
+    // Slide 11c: Teori Lykke Strategic Model
+    {
+      type: "highlight",
+      title: "MODEL STRATEGI ARTHUR LYKKE JR.",
+      content: [
+        {
+          icon: "🎯",
+          title: "Ends (Tujuan)",
+          text: "Kedaulatan NKRI, keamanan nasional, dan kesejahteraan rakyat sebagai tujuan akhir ketahanan nasional.",
+        },
+        {
+          icon: "⚙️",
+          title: "Ways (Cara)",
+          text: "Sistem pertahanan semesta, diplomasi pertahanan, dan pemberdayaan komponen cadangan sebagai cara mencapai ketahanan.",
+        },
+        {
+          icon: "💪",
+          title: "Means (Sarana)",
+          text: "TNI-Polri, alutsista, anggaran pertahanan, dan partisipasi rakyat sebagai sarana pendukung.",
+        },
+      ],
+    },
+
+    // Slide 11d: Teori Buzan
+    {
+      type: "content",
+      title: "TEORI KOMPLEKS KEAMANAN REGIONAL - BARRY BUZAN",
+      content: [
+        {
+          heading: "Barry Buzan (1991) - Regional Security Complex Theory",
+          text: "Keamanan suatu negara tidak dapat dipisahkan dari dinamika regional. Indonesia sebagai bagian dari kawasan Indo-Pasifik harus mempertimbangkan interdependensi keamanan dengan negara tetangga.",
+        },
+        {
+          heading: "Lima Sektor Keamanan Buzan:",
+          list: [
+            "1. Keamanan Militer - ancaman fisik kekuatan bersenjata",
+            "2. Keamanan Politik - stabilitas ideologi dan pemerintahan",
+            "3. Keamanan Ekonomi - akses terhadap sumber daya",
+            "4. Keamanan Sosial - identitas dan kohesi bangsa",
+            "5. Keamanan Lingkungan - keberlanjutan ekosistem",
+          ],
+        },
+      ],
+    },
+
+    // Slide 11e: Teori Joseph Nye
+    {
+      type: "content",
+      title: "KONSEP SOFT POWER - JOSEPH NYE",
+      content: [
+        {
+          heading: "Joseph Nye (2004)",
+          text: "Ketahanan nasional tidak hanya bergantung pada hard power (kekuatan militer dan ekonomi), tetapi juga soft power (daya tarik budaya, nilai, dan kebijakan luar negeri).",
+        },
+        {
+          heading: "Relevansi untuk Indonesia:",
+          list: [
+            "Diplomasi budaya sebagai instrumen ketahanan",
+            "Pengaruh Indonesia di ASEAN dan OKI",
+            "Nilai Pancasila sebagai soft power ideologi",
+            "Menangkal perang narasi dengan narasi positif",
+          ],
+        },
+        {
+          heading: "Smart Power",
+          text: "Kombinasi hard power dan soft power untuk mencapai tujuan keamanan nasional yang efektif dan berkelanjutan.",
+        },
+      ],
+    },
+
+    // Slide 11f: Teori Clausewitz
+    {
+      type: "content",
+      title: "PRINSIP PERANG - CARL VON CLAUSEWITZ",
+      content: [
+        {
+          heading: "Carl von Clausewitz (1832) - 'On War'",
+          text: '"Perang adalah kelanjutan politik dengan cara lain." Ketahanan pertahanan harus selalu sejalan dengan tujuan politik nasional.',
+        },
+        {
+          heading: "Trinitas Perang Clausewitz:",
+          list: [
+            "1. Pemerintah (Politik) - menentukan tujuan strategis",
+            "2. Militer (TNI) - melaksanakan strategi pertahanan",
+            "3. Rakyat - memberikan dukungan dan legitimasi",
+          ],
+        },
+        {
+          heading: "Aplikasi di Indonesia",
+          text: "Sistem pertahanan semesta mengintegrasikan ketiga elemen ini: kebijakan pemerintah, kekuatan TNI-Polri, dan partisipasi rakyat dalam bela negara.",
         },
       ],
     },
