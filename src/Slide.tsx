@@ -1,12 +1,5 @@
-import React, { useState } from "react";
-import {
-  ChevronLeft,
-  ChevronRight,
-  Shield,
-  Target,
-  AlertTriangle,
-  CheckCircle,
-} from "lucide-react";
+import { useState } from "react";
+import { ChevronLeft, ChevronRight, Shield, CheckCircle } from "lucide-react";
 
 export const Slide = () => {
   const [currentSlide, setCurrentSlide] = useState(0);
